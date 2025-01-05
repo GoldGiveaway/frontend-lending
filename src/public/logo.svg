@@ -1,0 +1,21 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" rx="61" fill="white"/>
+<rect width="500" height="500" rx="61" fill="url(#paint0_linear_443_741)"/>
+<rect width="500" height="500" rx="61" fill="url(#paint1_radial_443_741)"/>
+<path d="M91.625 205.646C91.625 197.495 91.625 193.42 92.2991 190.031C95.0674 176.113 105.947 165.234 119.864 162.466C123.253 161.792 127.328 161.792 135.479 161.792H249.5H363.521C371.672 161.792 375.747 161.792 379.136 162.466C393.054 165.234 403.933 176.113 406.701 190.031C407.375 193.42 407.375 197.495 407.375 205.646C407.375 213.797 407.375 217.872 406.701 221.261C403.933 235.179 393.054 246.058 379.136 248.826C375.747 249.5 371.672 249.5 363.521 249.5H249.5H135.479C127.328 249.5 123.253 249.5 119.864 248.826C105.947 246.058 95.0674 235.179 92.2991 221.261C91.625 217.872 91.625 213.797 91.625 205.646Z" stroke="#431149" stroke-width="16" stroke-linejoin="round"/>
+<path d="M109.167 249.5V319.667C109.167 352.743 109.167 369.282 119.442 379.557C129.718 389.833 146.256 389.833 179.333 389.833H196.875H302.125H319.666C352.743 389.833 369.281 389.833 379.557 379.557C389.833 369.282 389.833 352.743 389.833 319.667V249.5" stroke="#431149" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M249.5 161.792V389.833" stroke="#431149" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M238.542 148.094L203.82 104.691C190.757 88.3633 166.37 87.0463 151.585 101.832C129.483 123.933 145.068 161.792 176.324 161.792H231.958C239.028 161.792 242.959 153.614 238.542 148.094Z" stroke="#431149" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M260.458 148.094L295.18 104.691C308.244 88.3633 332.63 87.0463 347.416 101.832C369.517 123.933 353.933 161.792 322.677 161.792H267.042C259.972 161.792 256.041 153.614 260.458 148.094Z" stroke="#431149" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_443_741" x1="7.21936e-06" y1="500" x2="592.221" y2="321.523" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFECD1"/>
+<stop offset="1" stop-color="#D2AE7A"/>
+</linearGradient>
+<radialGradient id="paint1_radial_443_741" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(110 500) rotate(-72.3842) scale(541.912 442.475)">
+<stop stop-color="#6B1F84"/>
+<stop offset="0.446558" stop-color="#BE30CB"/>
+<stop offset="1" stop-color="#DC18B1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
