@@ -6,7 +6,7 @@ const data = useData();
 
 <template>
   <a
-      :href="`/`"
+      :href="`/start.html`"
       class="banner"
   >
     <span class="lines"></span>
